@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218117951545",
+    "project_id": "qazbooking-a4hral",
+    "storage_bucket": "qazbooking-a4hral.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218117951545:android:3256312cf4a44000377de8",
+        "android_client_info": {
+          "package_name": "com.mycompany.qazbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoPNvpIEy2fsGlQYegb1ytlCRS9u6S2XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
